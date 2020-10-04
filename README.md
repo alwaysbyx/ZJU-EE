@@ -16,7 +16,7 @@
 
 如 现代控制理论 课程，点进相应文件夹可以得到课程详情。
 
-<div align=center><img width="1000"  src="https://github.com/alwaysbyx/ZJU-EE/blob/main/example.jpg"/></div>
+<div align=center><img width="600"  src="https://github.com/alwaysbyx/ZJU-EE/blob/main/example.jpg"/></div>
 
 ## 进展
 接下来会邀请比较空/保研成功的朋友一起添加课程介绍和课程资料。
