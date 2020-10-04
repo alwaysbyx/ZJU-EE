@@ -13,4 +13,8 @@
 - 复习资料
 - 整理笔记
 - 考试回顾
+如 现代控制理论 课程，点进相应文件夹可以得到课程详情。
+![image](https://github.com/alwaysbyx/ZJU-EE/blob/main/example.jpg)
+
 ## 进展
+接下来会邀请比较空/保研成功的朋友一起添加课程介绍和课程资料。
